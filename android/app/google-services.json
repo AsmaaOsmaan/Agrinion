@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26184788553",
+    "project_id": "agriunion-cc231",
+    "storage_bucket": "agriunion-cc231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26184788553:android:b3ec599c314ad544cd6d98",
+        "android_client_info": {
+          "package_name": "com.aramwest.agrihubandroid.production"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26184788553-h9d9bb06kfqvg6jeg1vg9vhfutdt0mli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtzjiEA3uhZ-WaboJZBwqj6SKfsiphBoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26184788553-h9d9bb06kfqvg6jeg1vg9vhfutdt0mli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

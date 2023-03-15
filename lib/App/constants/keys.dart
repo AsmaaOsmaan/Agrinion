@@ -1,0 +1,10 @@
+const String kDontShowOnBoarding = "kDontShowOnBoarding";
+const String kToken = "token";
+const String kType = "type";
+const String kParent = "parent";
+const String kHasParent = "has_parent";
+const String kRemember = "kRemember";
+const String kPhone = 'phone';
+const String kProfile = "myProfile";
+const String kId = "id";
+const String kfcmToken = 'fcmToken';
